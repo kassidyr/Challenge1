@@ -18,3 +18,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Deploy Application
+
+The deployed application can be found here: https://kassidyr.github.io/Challenge1/
