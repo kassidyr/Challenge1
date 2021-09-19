@@ -3,7 +3,7 @@
 Clone your starter code
 Refactor the code to meet Acceptance Criteria
 Make sure your work meets the full list of grading requirements
-Follow the instructions to submit your CHallenge for review
+Follow the instructions to submit your Challenge for review
 
 ## Acceptance Criteria
 
